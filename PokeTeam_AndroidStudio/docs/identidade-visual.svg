@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240">
+  <rect width="640" height="240" rx="28" fill="#F6F7FB"/>
+  <circle cx="135" cy="120" r="70" fill="#E94C52"/>
+  <path d="M65 120h140" stroke="#fff" stroke-width="9"/>
+  <circle cx="135" cy="120" r="19" fill="white" stroke="#E94C52" stroke-width="7"/>
+  <text x="235" y="112" font-family="Arial,sans-serif" font-size="58" font-weight="bold" fill="#243149">PokéTeam</text>
+  <text x="240" y="148" font-family="Arial,sans-serif" font-size="20" fill="#798498">Seu time Pokémon favorito</text>
+</svg>

@@ -1,0 +1,13 @@
+PokéTeam - Projeto Final Android
+
+Abra a pasta no Android Studio e sincronize o Gradle.
+O SDK Android e o emulador nao estao disponiveis neste ambiente, entao a compilacao final deve ser verificada no Android Studio.
+
+O ZIP inclui gradle-wrapper.properties, mas nao o arquivo binario oficial gradle-wrapper.jar. Para baixar o wrapper OFICIAL 8.11.1 diretamente do repositorio publico do Gradle, execute PREPARAR_GRADLE_WINDOWS.bat ou sh PREPARAR_GRADLE_LINUX_MAC.sh com conexao a internet. Depois sincronize.
+
+Para subir o projeto no GitHub pela sua propria conta:
+- Windows: executar ENVIAR_PARA_GITHUB.bat, com Git instalado e autenticado.
+- Linux/macOS: executar sh ENVIAR_PARA_GITHUB.sh.
+
+O link do Figma recebido nao identifica um projeto; o layout e proprio.
+Leia README.md para o roteiro de testes e os itens de equipe a completar.

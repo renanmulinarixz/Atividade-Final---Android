@@ -1,0 +1,7 @@
+<resources>
+    <item name="trainer_name" type="id" />
+    <item name="trainer_password" type="id" />
+    <item name="login" type="id" />
+    <item name="register" type="id" />
+    <item name="capture" type="id" />
+</resources>

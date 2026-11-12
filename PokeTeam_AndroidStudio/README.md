@@ -1,4 +1,4 @@
-# PokéFav
+# PokeTeam
 
 App Android que lista os pokémons da primeira geração e deixa cada usuário salvar os seus favoritos.
 

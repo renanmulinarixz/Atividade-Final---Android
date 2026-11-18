@@ -15,4 +15,5 @@ No Android Studio, abra a pasta **PokeSpawn**, que contém `settings.gradle`. Co
 
 Compilação, 11 testes automáticos e Android Lint aprovados. [Relatório de validação](PokeSpawn/validacao/VALIDACAO.md).
 
-O projeto anterior continua disponível na pasta `PokeTeam_AndroidStudio`.
+
+
